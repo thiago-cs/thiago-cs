@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thiago-cs
+- 👀 I’m interested in developing software that contribute to making people's lives better.
+- 🌱 I have experience building C#/WPF tools to solve specific problems (mostly work automation) and I’m currently learning Web Development with React, and Python.
+- 💞️ I’m looking to collaborate on open software in general.
+- 📫 You can reach me at thiagocs.cci@hotmail.com
